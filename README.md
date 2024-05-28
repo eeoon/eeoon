@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eeoon 
 - 👀 I’m interested in Multi Robotics / SLAM
-- 🌱 I'm working at Korea Electronics Technology Institute, KETI IRRC Mobile Robot[https://github.com/KETI-MoRo]
+- 🌱 I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot](https://github.com/KETI-MoRo)
   
 <!--
 - 💞️ I’m looking to collaborate on ...
