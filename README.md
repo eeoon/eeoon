@@ -3,7 +3,10 @@
 - 🌱 I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot](https://github.com/KETI-MoRo)
 
 ### More about me
-<a href="https://eeoon.github.io" target="_blank"><img src="https://img.shields.io/badge/TechBlog-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a> 
+<a href="https://eeoon.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech%20blog-%23181717?style=flat&logo=Github"/></a> 
+
+
+
 <!--
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/ehdud971119@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a> [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/KimDoYoung1997/KimDoYoung1997/blob/main/CV/231030_%EA%B9%80%EB%8F%84%EC%98%81_CV.pdf) 
 -->
