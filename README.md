@@ -16,6 +16,19 @@
 -->
 </div>
 
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feeoon&count_bg=%233DC88E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+</div>
+
+<div align=center>
+  
+[![eeoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eeoon&count_private=true
+)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 <!--
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/ehdud971119@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a> [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/KimDoYoung1997/KimDoYoung1997/blob/main/CV/231030_%EA%B9%80%EB%8F%84%EC%98%81_CV.pdf) 
 -->
