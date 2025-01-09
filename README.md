@@ -2,9 +2,9 @@
 
 ### 👋 Hi, I’m YoungEon Kim 
 
-- ⚫ I’m interested in Multi Robotics / Sim env
-- ⚫ B.S in Robotics from Keimyung University, Daegu,  (2017 ~ 2023)
-- ⚫ I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot](https://github.com/KETI-MoRo)
+> ⚫ I’m interested in Multi Robotics / Sim env
+> ⚫ B.S in Robotics from Keimyung University, Daegu,  (2017 ~ 2023)
+> ⚫ I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot](https://github.com/KETI-MoRo)
 <!-- ⁉️ 🌱 -->
 ### More about me
 
@@ -12,9 +12,6 @@
 
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
 [![ROBOTICS_BLOG](https://img.shields.io/badge/Tech%20blog-%23181717?style=flat&logo=Github)](https://eeoon.github.io)
-<!--
-<a href="https://eeoon.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech%20blog-%23181717?style=flat&logo=Github"/></a> 
--->
 
 ---
 
