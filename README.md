@@ -6,10 +6,10 @@
 > ⚫ **B.S in Robotics** from Keimyung University, Daegu, South Korea (2017.3 ~ 2023.2)  
 > ⚫ I'm working at **Korea Electronics Technology Institute**, [KETI IRRC Mobile Robot](https://github.com/KETI-MoRo)
 
-### 📖 Research Interest
-> ⚪ **Multi Robotics** : Task Allocation, Traffic Scheduling, Fault Detection
-> ⚪ **Simulation Env** : Gazebo, Issac Sim
-> ⚪ **Field Robotics** : Mobile Robot Navigation, Localization and Mapping, TF, Obstacle Avoidance
+### 📖 Research Interest  
+> ⚪ **Multi Robotics** : Task Allocation, Traffic Scheduling, Fault Detection  
+> ⚪ **Simulation Env** : Gazebo, Issac Sim  
+> ⚪ **Field Robotics** : Mobile Robot Navigation, Localization and Mapping, TF, Obstacle Avoidance  
 
 <!-- ⁉️ 🌱 -->
 ### More about me
