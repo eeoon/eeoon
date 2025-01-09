@@ -33,7 +33,7 @@
   
 </div>
 
-![underbar](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=70&section=underbar&fontSize=60)
+![underbar](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=70&section=footer&fontSize=60)
 <!--
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/ehdud971119@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a> [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/KimDoYoung1997/KimDoYoung1997/blob/main/CV/231030_%EA%B9%80%EB%8F%84%EC%98%81_CV.pdf) 
 -->
