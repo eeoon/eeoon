@@ -10,10 +10,10 @@
 <div align=center>
 
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
-
+[![ROBOTICS_BLOG](https://img.shields.io/badge/Tech%20blog-%23181717?style=flat&logo=Github)](https://eeoon.github.io)
+<!--
 <a href="https://eeoon.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech%20blog-%23181717?style=flat&logo=Github"/></a> 
-<a href="[https://github.com/eeoon/eeoon/blob/main/cv.pdf](https://github.com/eeoon/eeoon/blob/main/CV.pdf)" target="_blank"><img src="https://img.shields.io/badge/CV-%23181717?style=flat&logo=Github"/></a> 
-
+-->
 </div>
 
 <!--
