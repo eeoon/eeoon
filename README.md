@@ -1,10 +1,10 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=capsule%20render&fontSize=0) -->
 
-### 👋 Hi, I’m YoungEon Kim 
-
-> ⚫ **I’m interested in Multi Robotics / Sim env
-> ⚫ **B.S in Robotics from Keimyung University, Daegu,  (2017 ~ 2023)
-> ⚫ **I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot](https://github.com/KETI-MoRo)
+### 👋 Hi, I’m YoungEon Kim  
+  
+> ⚫ **I’m interested in Multi Robotics / Sim env  
+> ⚫ **B.S in Robotics from Keimyung University, Daegu,  (2017 ~ 2023)  
+> ⚫ **I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot](https://github.com/KETI-MoRo)  
 
 <!-- ⁉️ 🌱 -->
 ### More about me
