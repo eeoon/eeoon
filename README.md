@@ -11,9 +11,9 @@
 <div align=center>
 
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
-[![ROBOTICS_BLOG](https://img.shields.io/badge/Tech%20blog-%23181717?style=flat&logo=Github)](https://eeoon.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyu8456@gmail.com)](mailto:kyu8456@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/영언-김-88695a2a7/)](https://www.linkedin.com/in/영언-김-88695a2a7/)
+[![ROBOTICS_BLOG](https://img.shields.io/badge/Robotics%20blog-%23181717?style=flat&logo=Github)](https://eeoon.github.io)
 
 ---
 
