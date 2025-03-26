@@ -9,7 +9,7 @@
 ### 📖 Research Interest  
 > ⚪ **Multi Robotics** : Task Allocation, Traffic Scheduling, Fault Detection  
 > ⚪ **Simulation Env** : Gazebo, Issac Sim  
-> ⚪ **Field Robotics** : Mobile Robot Navigation, Localization and Mapping, TF, Obstacle Avoidance  
+> ⚪ **Field Robotics** : Mobile Robot Navigation, Localization and Mapping, Obstacle Avoidance  
 
 <!-- ⁉️ 🌱 -->
 ### More about me
