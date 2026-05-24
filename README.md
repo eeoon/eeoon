@@ -20,7 +20,7 @@ You can explore my full portfolio, including projects, research, publications, C
 
 ### 🔗 [View My Notion Portfolio](https://confusion-leotard-519.notion.site/a4d6df16a91d831995020101c25255a9)
 <!-- [![Notion Portfolio](https://shields.io)](https://본인의-노션-링크-주소) -->
-### 🔗 [CV](https://shields.io)](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
+### 🔗 [CV](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
 
 <div align=center>
 
