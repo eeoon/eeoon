@@ -18,11 +18,13 @@
 
 You can explore my full portfolio, including projects, research, publications, CV, and technical experiences on my Notion page.
 
-### 🔗 [View My Notion Portfolio](https://confusion-leotard-519.notion.site/a4d6df16a91d831995020101c25255a9)
-<!-- [![Notion Portfolio](https://shields.io)](https://본인의-노션-링크-주소) -->
-### 🔗 [CV](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
 
 <div align=center>
+
+### 🔗 [View My Portfolio](https://confusion-leotard-519.notion.site/a4d6df16a91d831995020101c25255a9)
+
+### 🔗 [CV](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
+
 
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyu8456@gmail.com)](mailto:kyu8456@gmail.com)
@@ -33,7 +35,7 @@ You can explore my full portfolio, including projects, research, publications, C
 
 </div>
 
-<div align=center>
+<!-- <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feeoon&count_bg=%233DC88E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
@@ -44,7 +46,7 @@ You can explore my full portfolio, including projects, research, publications, C
 [![eeoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eeoon&count_private=true
 )](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+</div> -->
 
 ![underbar](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=70&section=footer&fontSize=60)
 <!--
