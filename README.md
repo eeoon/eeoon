@@ -7,12 +7,20 @@
 > ⚫ I'm working at **Korea Electronics Technology Institute**, [KETI IRRC Mobile Robot](https://github.com/KETI-MoRo)
 
 ### 📖 Research Interest  
-> ⚪ **Multi Robotics** : Task Allocation, Traffic Scheduling, Fault Detection  
-> ⚪ **Simulation Env** : Gazebo, Issac Sim  
-> ⚪ **Field Robotics** : Mobile Robot Navigation, Localization and Mapping, Obstacle Avoidance  
+> ⚪ **Multi Robotics** : Task Allocation, Traffic Scheduling, Anomaly Detection
+> ⚪ **Simulation Env** : Gazebo, Issac Sim, Mujoco
+> ⚪ **Field Robotics** : Mobile Robot Navigation, Localization and Mapping, Obstacle Avoidance
 
 <!-- ⁉️ 🌱 -->
 ### More about me
+
+## Portfolio
+
+You can explore my full portfolio, including projects, research, publications, CV, and technical experiences on my Notion page.
+
+🔗 [View My Notion Portfolio](https://confusion-leotard-519.notion.site/a4d6df16a91d831995020101c25255a9)
+<!-- [![Notion Portfolio](https://shields.io)](https://본인의-노션-링크-주소) -->
+[![GitHub Profile](https://shields.io)](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
 
 <div align=center>
 
