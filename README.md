@@ -21,7 +21,9 @@ You can explore my full portfolio, including projects, research, publications, C
 
 <div align=center>
 
-### 🔗 [View My Portfolio](https://confusion-leotard-519.notion.site/a4d6df16a91d831995020101c25255a9)
+### 🔗 [Portfolio](https://confusion-leotard-519.notion.site/a4d6df16a91d831995020101c25255a9)
+
+### 🔗 Portfolio PDF : [View](https://github.com/eeoon/eeoon/blob/main/Portfolio.pdf) · [Download](https://github.com/eeoon/eeoon/raw/main/Portfolio.pdf)
 
 ### 🔗 [CV](https://github.com/eeoon/eeoon/blob/main/CV.pdf)
 
